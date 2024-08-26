@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AutoRoomLayout",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Krishna",
+	"CreatedByURL": "https://www.linkedin.com/in/krishna67/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AutoRoomLayout",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		} 
+	]
+}
